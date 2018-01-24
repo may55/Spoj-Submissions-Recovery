@@ -1,5 +1,5 @@
 # Spoj_Extractor
-This is a python script, which extract all submitted codes of SPOJ
+This is a python script, which extracts all submitted codes of SPOJ
 
 
 ## Installation
