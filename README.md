@@ -1,4 +1,4 @@
-# Spoj_Extractor
+# Spoj-Submissions-Recovery
 This is a python script, which extracts all submitted codes of SPOJ
 
 
